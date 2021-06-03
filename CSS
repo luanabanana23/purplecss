@@ -1,0 +1,341 @@
+body {
+    text-align: center;
+    background-attachment: fixed;
+    background-image: url(https://lh3.googleusercontent.com/proxy/fpY_qmx0d0x3SNpzjxJJmwRwurHV7AJ8IBf6v1uVj1hz4JgUrcfsVcyQjdX_jZtd7FVUdvJjZyi_geYLWtu_qPb9_5JIeKdPWKpnelWZIY3OvcTWl8Ya1vZSeqLV5uJbYCc5xl8hD2NJ7ZAa);
+    background-size: cover;
+    background-position: bottom;
+}
+
+.rightHead {
+   background: #fc90;
+   color: #cc663300;
+   padding-left: 4px;
+   font-size: 0px;
+}
+
+.blurbs {
+    margin-bottom: 20px;
+    background-color: #ea6ba100;
+    /* border: dotted; */
+    /* border-color: #000000; */
+    color: white;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+#commentInput {
+    width: calc( 100% - 6px );
+    margin: 0;
+    margin-top: 10px;
+    height: 100px;
+    background-image: url(https://lh3.googleusercontent.com/proxy/vi55wF3CncJcdGJ3pkGCvHFDe0usj70SDIkVh7bgNawvpOmBja2KRu2pYlpi2un_7Xop0W2GdQY25mDwp6T0CAyKZh1JaggvE3XWf-Ft_3GMH2yfnoAdtxRxfm7ppSIP2Shu6gWx_YdnhxCZkH8);
+    background-size: inherit;
+}
+
+.boxHead {
+   background: #000000;
+   color: white;
+   padding: 3px;
+   padding-bottom: 4px;
+   padding-left: 6px;
+}
+
+.tableLeft {
+   width: 25%;
+   padding: 10px;
+   vertical-align: top;
+   overflow: hidden;
+   background-color: rebeccapurple;
+}
+
+.tableRight {
+    width: 75%;
+    background-image: url(http://pa1.narvii.com/6538/93f0b427119c9f78a3cf0d2b21de6b79a158b5c3_00.gif);
+    padding: 10px;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+    color: white;
+}
+
+div.topLeft {
+    float: left;
+    width: 370px;
+    background-color: #ad2c2300;
+    padding-top: 86px;
+}
+
+p {
+    margin: 0;
+    padding-block: 15px;
+    background: #0000008c;
+    color: #f4f4f4;
+    padding-inline: 20px;
+    text-shadow: 0px 2px black;
+}
+
+#userWall {
+   margin-top: 10px;
+   word-wrap: break-word;
+   display: inline-block;
+   overflow-y: scroll;
+   width: 100%;
+   height: 400px;
+}
+
+.topLeft {
+   float: left;
+   width: calc( 40% - 20px );
+   padding: 10px;
+   background-color: #ad2c2300;
+   padding-top: 86px;
+}
+
+td.shortRight {
+    display: table-cell;
+    vertical-align: inherit;
+    background-image: url(https://i.pinimg.com/originals/fa/16/5c/fa165c7ee46993cb94bf02c2596a0d71.gif);
+    padding-inline: 10px;
+    text-shadow: 0px 0px 3px #000000;
+    color: #fcfefc;
+    background-position: top;
+}
+
+h2#name.uName {
+    color: rebeccapurple;
+    background-color: black;
+    border: solid;
+    border-color: black;
+    background-image: url(https://i2.wp.com/novocom.top/image/aS5wabWcuYW5pbWcuY29t/originals/26/2e/d0/262ed084b6ed50d2754a044ae20dca81.gif);
+    text-shadow: 2px 2px 0px #fcfefc;
+}
+
+div#header {
+   all: unset;
+   font-family: Arial;
+   font-size: 15px;
+   background-image: url(https://i2.wp.com/novocom.top/image/aS5wabWcuYW5pbWcuY29t/originals/26/2e/d0/262ed084b6ed50d2754a044ae20dca81.gif);
+   color: #fff;
+   position: fixed;
+   width: calc( 100% - 15px );
+   height: 22px;
+   padding: 5px;
+   left: 0px;
+   top: 0px;
+   margin-bottom: 40px;
+   border-bottom: 1px solid black;
+   padding-left: 10px;
+   padding-top: 6px;
+   overflow: hidden;
+   z-index: 300;
+}
+
+div#hSub {
+   all: unset;
+   font-family: Arial;
+   font-size: 15px;
+   background: black;
+   font-size: small;
+   margin: 0px;
+   padding: 5px;
+   padding-top: 5px;
+   padding-left: 5px;
+   padding-left: 10px;
+   padding-top: 4px;
+   position: fixed;
+   left: 0;
+   top: 34px;
+   width: calc(100% - 15px );
+   color: #000;
+   height: 15px;
+   z-index: 300;
+}
+
+h4 {
+    color: #f7f7f7;
+    margin-bottom: 0px;
+    font-size: 24px;
+    background: rebeccapurple;
+    border-radius: 10px;
+    text-shadow: 0 2px black;
+}
+
+.boxInfo {
+   border: 1px solid #000;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   background-color: rebeccapurple;
+}
+
+.url {
+   border: 2px solid rebeccapurple;
+   padding: 2px;
+   background-image: url(http://pa1.narvii.com/6538/93f0b427119c9f78a3cf0d2b21de6b79a158b5c3_00.gif);
+}
+
+a:-webkit-any-link {
+    color: rebeccapurple;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+b {
+   font-weight: bold;
+   color: white;
+}
+
+.player {
+   padding: 4px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   background: black;
+   color: #fff;
+   width: calc(100% - 10px );
+   border: solid rebeccapurple;
+}
+
+#report {
+   background-repeat: no-repeat;
+   background-image: url(img/icon_rank_user4.gif);
+   color: black;
+}
+
+#sMsg {
+   background-repeat: no-repeat;
+   background-image: url(img/sendMailIcon.gif);
+   color: black;
+}
+
+#add {
+   background-repeat: no-repeat;
+   background-image: url(img/addFriendIcon.gif);
+   color: black;
+}
+
+#block {
+   background-repeat: no-repeat;
+   background-image: url(img/blockuser.gif);
+   color: black;
+}
+
+.blogCard .avatar {
+   width: 200px;
+   margin-right: 0px;
+}
+
+div.topLeft.blogCard {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background-image: url(http://pa1.narvii.com/6538/93f0b427119c9f78a3cf0d2b21de6b79a158b5c3_00.gif);
+    padding-top: 86px;
+    color: white;
+    text-shadow: 2px 1px black;
+}
+
+.topLeft {
+    float: left;
+    width: calc( 40% - 20px );
+    padding: 10px;
+    background-color: #ad2c2300;
+    padding-top: 86px;
+}
+
+div.topLeft.blogCard::after {
+   content: none;
+   display: block;
+   position: center;
+   width: 100%;
+   height: 1666px;
+   max-width: 370px;
+   background-position: 0 0;
+   background-size: 100% 100%;
+   background-image: url(https://64.media.tumblr.com/32610d6…/d4b21ee6ea6c2029-4e/s1280x1920/069101f….png);
+}
+
+
+div.box.fwiends {
+   overflow: hidden;
+   background-image: url(https://i.pinimg.com/originals/fa/16/5c/fa165c7ee46993cb94bf02c2596a0d71.gif);
+}
+
+span#hUp::before {
+   content: “be kind!”;
+   font-size: 13px;
+   animation-duration: 0.3s;
+   animation-timing-function: ease;
+   animation-delay: 0s;
+   animation-iteration-count: infinite;
+   animation-direction: normal;
+   animation-fill-mode: none;
+   animation-play-state: running;
+   animation-name: blinkingTextRed;
+   font-family: monospace;
+}
+
+.extended {
+    border: 1px solid #000;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    color: #fcfefc;
+    background-image: url(http://pa1.narvii.com/6538/93f0b427119c9f78a3cf0d2b21de6b79a158b5c3_00.gif);
+}
+
+.player::after {
+    content: "";
+    display: block;
+    position: relative;
+    width: calc(40% -20px);
+    height: 303px;
+    max-width: 370px;
+    background-position: 0 0;
+    background-size: 100% 100%;
+    background-image: url(https://media.tenor.com/images/a88a26eca8fcd17e8ef8266937a9853d/tenor.gif);
+}
+
+div.topLeft::after {
+    content: "";
+    display: block;
+    position: center;
+    width: 100%;
+    height: 1759px;
+    max-width: 370px;
+    background-position: 0 0;
+    background-size: 100% 100%;
+    background-image: url(https://64.media.tumblr.com/d034d806a70a3e33d16c05c53e685ba5/1008294464a2add0-0b/s1280x1920/2facbea0f40db2d03b98322353d1c14494033aae.png);
+    border: solid rebeccapurple;
+    background-color: #663399b5;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/holidays/hol-4/hol338.cur), auto !important;} /* End https://www.cursors-4u.com */
+
+
+.logo b {
+    position: relative;
+    font-size: 0px;
+}
+
+.logo b:before {
+    position: fixed;
+    content: "i luv you <3";
+    font-size: 17px;
+    color: white;
+    text-shadow: 4px -1px 2px black;
+}
+
+.blogs, .blog {
+    margin-bottom: 20px;
+    border: solid;
+    border-color: rebeccapurple;
+    color: #f7f7f7;
+    background: #000000d9;
+    text-shadow: 0px 2px black;
+}
+
+#userWall {
+    margin-top: 10px;
+    word-wrap: break-word;
+    display: inline-block;
+    overflow-y: scroll;
+    width: 100%;
+}
